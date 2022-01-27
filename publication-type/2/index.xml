@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Pengfei Gao</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Approach to Formal Verification of Higher-Order Masked Arithmetic Programs</title>
+      <link>https://example.com/publication/tosem21/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tosem21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Veriﬁcation of Masking Countermeasures for Arithmetic Programs</title>
+      <link>https://example.com/publication/tse20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tse20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying and Quantifying Side-channel Resistance of Masked Software Implementations</title>
+      <link>https://example.com/publication/tosem19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tosem19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
